@@ -40,7 +40,7 @@ numbers may not be available for all players (ie: prospects involved in trade).
 ![trades homepage](https://github.com/mreidy88/P1-Trade-Tracker/blob/master/trades-web-home.png "Web Homepage")
 
 ![Team Homepage](https://github.com/mreidy88/P1-Trade-Tracker/blob/master/trades-website-team.png "Team Page markup")
-![Henrik](https://i.pinimg.com/originals/ab/aa/6a/abaa6a710dde3689a03d866966ddcb7d.jpg)
+![Henrik](https://i.pinimg.com/originals/ab/aa/6a/abaa6a710dde3689a03d866966ddcb7d.jpg "The King approves")
 
 # Build Status:  
 Just starting out.
