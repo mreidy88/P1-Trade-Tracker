@@ -35,7 +35,7 @@ numbers may not be available for all players (ie: prospects involved in trade).
 
 ![trades mobile home](https://github.com/mreidy88/P1-Trade-Tracker/blob/master/trades-mobile-home.png "Mobile Home")
 
-![trades mobile team](https://github.com/mreidy88/P1-Trade-Tracker/blob/master/trades%20for%20the%20cup%20mobile%20team%20page.png "Teams mobile")
+![trades mobile team](https://github.com/mreidy88/P1-Trade-Tracker/blob/master/trades-mobile-team2.png "Teams mobile")
 
 ![trades homepage](https://github.com/mreidy88/P1-Trade-Tracker/blob/master/trades-web-home.png "Web Homepage")
 
