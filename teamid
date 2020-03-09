@@ -1,0 +1,33 @@
+copyright: "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved."
+teams: Array(31)
+0: {id: 1, name: "New Jersey Devils", link: "/api/v1/teams/1", venue: {…}, abbreviation: "NJD", …}
+1: {id: 2, name: "New York Islanders", link: "/api/v1/teams/2", venue: {…}, abbreviation: "NYI", …}
+2: {id: 3, name: "New York Rangers", link: "/api/v1/teams/3", venue: {…}, abbreviation: "NYR", …}
+3: {id: 4, name: "Philadelphia Flyers", link: "/api/v1/teams/4", venue: {…}, abbreviation: "PHI", …}
+4: {id: 5, name: "Pittsburgh Penguins", link: "/api/v1/teams/5", venue: {…}, abbreviation: "PIT", …}
+5: {id: 6, name: "Boston Bruins", link: "/api/v1/teams/6", venue: {…}, abbreviation: "BOS", …}
+6: {id: 7, name: "Buffalo Sabres", link: "/api/v1/teams/7", venue: {…}, abbreviation: "BUF", …}
+7: {id: 8, name: "Montréal Canadiens", link: "/api/v1/teams/8", venue: {…}, abbreviation: "MTL", …}
+8: {id: 9, name: "Ottawa Senators", link: "/api/v1/teams/9", venue: {…}, abbreviation: "OTT", …}
+9: {id: 10, name: "Toronto Maple Leafs", link: "/api/v1/teams/10", venue: {…}, abbreviation: "TOR", …}
+10: {id: 12, name: "Carolina Hurricanes", link: "/api/v1/teams/12", venue: {…}, abbreviation: "CAR", …}
+11: {id: 13, name: "Florida Panthers", link: "/api/v1/teams/13", venue: {…}, abbreviation: "FLA", …}
+12: {id: 14, name: "Tampa Bay Lightning", link: "/api/v1/teams/14", venue: {…}, abbreviation: "TBL", …}
+13: {id: 15, name: "Washington Capitals", link: "/api/v1/teams/15", venue: {…}, abbreviation: "WSH", …}
+14: {id: 16, name: "Chicago Blackhawks", link: "/api/v1/teams/16", venue: {…}, abbreviation: "CHI", …}
+15: {id: 17, name: "Detroit Red Wings", link: "/api/v1/teams/17", venue: {…}, abbreviation: "DET", …}
+16: {id: 18, name: "Nashville Predators", link: "/api/v1/teams/18", venue: {…}, abbreviation: "NSH", …}
+17: {id: 19, name: "St. Louis Blues", link: "/api/v1/teams/19", venue: {…}, abbreviation: "STL", …}
+18: {id: 20, name: "Calgary Flames", link: "/api/v1/teams/20", venue: {…}, abbreviation: "CGY", …}
+19: {id: 21, name: "Colorado Avalanche", link: "/api/v1/teams/21", venue: {…}, abbreviation: "COL", …}
+20: {id: 22, name: "Edmonton Oilers", link: "/api/v1/teams/22", venue: {…}, abbreviation: "EDM", …}
+21: {id: 23, name: "Vancouver Canucks", link: "/api/v1/teams/23", venue: {…}, abbreviation: "VAN", …}
+22: {id: 24, name: "Anaheim Ducks", link: "/api/v1/teams/24", venue: {…}, abbreviation: "ANA", …}
+23: {id: 25, name: "Dallas Stars", link: "/api/v1/teams/25", venue: {…}, abbreviation: "DAL", …}
+24: {id: 26, name: "Los Angeles Kings", link: "/api/v1/teams/26", venue: {…}, abbreviation: "LAK", …}
+25: {id: 28, name: "San Jose Sharks", link: "/api/v1/teams/28", venue: {…}, abbreviation: "SJS", …}
+26: {id: 29, name: "Columbus Blue Jackets", link: "/api/v1/teams/29", venue: {…}, abbreviation: "CBJ", …}
+27: {id: 30, name: "Minnesota Wild", link: "/api/v1/teams/30", venue: {…}, abbreviation: "MIN", …}
+28: {id: 52, name: "Winnipeg Jets", link: "/api/v1/teams/52", venue: {…}, abbreviation: "WPG", …}
+29: {id: 53, name: "Arizona Coyotes", link: "/api/v1/teams/53", venue: {…}, abbreviation: "ARI", …}
+30: {id: 54, name: "Vegas Golden Knights", link: "/api/v1/teams/54", venue

@@ -1,0 +1,119 @@
+0:
+person: {id: 8477369, fullName: "Carson Soucy", link: "/api/v1/people/8477369"}
+jerseyNumber: "21"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+1:
+person: {id: 8469459, fullName: "Mikko Koivu", link: "/api/v1/people/8469459"}
+jerseyNumber: "9"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+2:
+person: {id: 8470595, fullName: "Eric Staal", link: "/api/v1/people/8470595"}
+jerseyNumber: "12"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+3:
+person: {id: 8470600, fullName: "Ryan Suter", link: "/api/v1/people/8470600"}
+jerseyNumber: "20"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+4:
+person: {id: 8470610, fullName: "Zach Parise", link: "/api/v1/people/8470610"}
+jerseyNumber: "11"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+5:
+person: {id: 8471227, fullName: "Devan Dubnyk", link: "/api/v1/people/8471227"}
+jerseyNumber: "40"
+position: {code: "G", name: "Goalie", type: "Goalie", abbreviation: "G"}
+__proto__: Object
+6:
+person: {id: 8471774, fullName: "Alex Stalock", link: "/api/v1/people/8471774"}
+jerseyNumber: "32"
+position: {code: "G", name: "Goalie", type: "Goalie", abbreviation: "G"}
+__proto__: Object
+7:
+person: {id: 8474688, fullName: "Greg Pateryn", link: "/api/v1/people/8474688"}
+jerseyNumber: "29"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+8:
+person: {id: 8474716, fullName: "Jared Spurgeon", link: "/api/v1/people/8474716"}
+jerseyNumber: "46"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+9:
+person: {id: 8474749, fullName: "Matt Bartkowski", link: "/api/v1/people/8474749"}
+jerseyNumber: "44"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+10:
+person: {id: 8475220, fullName: "Marcus Foligno", link: "/api/v1/people/8475220"}
+jerseyNumber: "17"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+11:
+person: {id: 8475692, fullName: "Mats Zuccarello", link: "/api/v1/people/8475692"}
+jerseyNumber: "36"
+position: {code: "R", name: "Right Wing", type: "Forward", abbreviation: "RW"}
+__proto__: Object
+12:
+person: {id: 8476437, fullName: "Victor Rask", link: "/api/v1/people/8476437"}
+jerseyNumber: "49"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+13:
+person: {id: 8476463, fullName: "Jonas Brodin", link: "/api/v1/people/8476463"}
+jerseyNumber: "25"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+14:
+person: {id: 8476779, fullName: "Brad Hunt", link: "/api/v1/people/8476779"}
+jerseyNumber: "77"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+15:
+person: {id: 8476851, fullName: "Alex Galchenyuk", link: "/api/v1/people/8476851"}
+jerseyNumber: "27"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+16:
+person: {id: 8476856, fullName: "Matt Dumba", link: "/api/v1/people/8476856"}
+jerseyNumber: "24"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+17:
+person: {id: 8477451, fullName: "Ryan Hartman", link: "/api/v1/people/8477451"}
+jerseyNumber: "38"
+position: {code: "R", name: "Right Wing", type: "Forward", abbreviation: "RW"}
+__proto__: Object
+18:
+person: {id: 8477942, fullName: "Kevin Fiala", link: "/api/v1/people/8477942"}
+jerseyNumber: "22"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+19:
+person: {id: 8477987, fullName: "Ryan Donato", link: "/api/v1/people/8477987"}
+jerseyNumber: "6"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+20:
+person: {id: 8478413, fullName: "Jordan Greenway", link: "/api/v1/people/8478413"}
+jerseyNumber: "18"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+21:
+person: {id: 8478493, fullName: "Joel Eriksson Ek", link: "/api/v1/people/8478493"}
+jerseyNumber: "14"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+22:
+person: {id: 8479316, fullName: "Luke Kunin", link: "/api/v1/people/8479316"}
+jerseyNumber: "19"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+23:
+person: {id: 8479933, fullName: "Gerald Mayhew", link: "/api/v1/people/8479933"}
+jerseyNumber: "26"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}

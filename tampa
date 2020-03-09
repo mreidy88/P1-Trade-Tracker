@@ -1,0 +1,126 @@
+copyright: "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2020. All Rights Reserved."
+roster: Array(25)
+0:
+person: {id: 8480172, fullName: "Jan Rutta", link: "/api/v1/people/8480172"}
+jerseyNumber: "44"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+1:
+person: {id: 8470147, fullName: "Curtis McElhinney", link: "/api/v1/people/8470147"}
+jerseyNumber: "35"
+position: {code: "G", name: "Goalie", type: "Goalie", abbreviation: "G"}
+__proto__: Object
+2:
+person: {id: 8470601, fullName: "Braydon Coburn", link: "/api/v1/people/8470601"}
+jerseyNumber: "55"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+3:
+person: {id: 8473986, fullName: "Alex Killorn", link: "/api/v1/people/8473986"}
+jerseyNumber: "17"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+4:
+person: {id: 8474031, fullName: "Kevin Shattenkirk", link: "/api/v1/people/8474031"}
+jerseyNumber: "22"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+5:
+person: {id: 8474034, fullName: "Pat Maroon", link: "/api/v1/people/8474034"}
+jerseyNumber: "14"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+6:
+person: {id: 8474151, fullName: "Ryan McDonagh", link: "/api/v1/people/8474151"}
+jerseyNumber: "27"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+7:
+person: {id: 8474564, fullName: "Steven Stamkos", link: "/api/v1/people/8474564"}
+jerseyNumber: "91"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+8:
+person: {id: 8474567, fullName: "Zach Bogosian", link: "/api/v1/people/8474567"}
+jerseyNumber: "24"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+9:
+person: {id: 8474568, fullName: "Luke Schenn", link: "/api/v1/people/8474568"}
+jerseyNumber: "2"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+10:
+person: {id: 8474870, fullName: "Tyler Johnson", link: "/api/v1/people/8474870"}
+jerseyNumber: "9"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+11:
+person: {id: 8475167, fullName: "Victor Hedman", link: "/api/v1/people/8475167"}
+jerseyNumber: "77"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+12:
+person: {id: 8476292, fullName: "Ondrej Palat", link: "/api/v1/people/8476292"}
+jerseyNumber: "18"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+13:
+person: {id: 8476399, fullName: "Blake Coleman", link: "/api/v1/people/8476399"}
+jerseyNumber: "20"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+14:
+person: {id: 8476453, fullName: "Nikita Kucherov", link: "/api/v1/people/8476453"}
+jerseyNumber: "86"
+position: {code: "R", name: "Right Wing", type: "Forward", abbreviation: "RW"}
+__proto__: Object
+15:
+person: {id: 8476624, fullName: "Barclay Goodrow", link: "/api/v1/people/8476624"}
+jerseyNumber: "19"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+16:
+person: {id: 8476826, fullName: "Yanni Gourde", link: "/api/v1/people/8476826"}
+jerseyNumber: "37"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+17:
+person: {id: 8476883, fullName: "Andrei Vasilevskiy", link: "/api/v1/people/8476883"}
+jerseyNumber: "88"
+position: {code: "G", name: "Goalie", type: "Goalie", abbreviation: "G"}
+__proto__: Object
+18:
+person: {id: 8476975, fullName: "Cedric Paquette", link: "/api/v1/people/8476975"}
+jerseyNumber: "13"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+19:
+person: {id: 8477409, fullName: "Carter Verhaeghe", link: "/api/v1/people/8477409"}
+jerseyNumber: "23"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+20:
+person: {id: 8478010, fullName: "Brayden Point", link: "/api/v1/people/8478010"}
+jerseyNumber: "21"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+21:
+person: {id: 8478416, fullName: "Erik Cernak", link: "/api/v1/people/8478416"}
+jerseyNumber: "81"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+22:
+person: {id: 8478477, fullName: "Mitchell Stephens", link: "/api/v1/people/8478477"}
+jerseyNumber: "67"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+23:
+person: {id: 8478519, fullName: "Anthony Cirelli", link: "/api/v1/people/8478519"}
+jerseyNumber: "71"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+24:
+person: {id: 8479410, fullName: "Mikhail Sergachev", link: "/api/v1/people/8479410"}
+jerseyNumber: "98"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}

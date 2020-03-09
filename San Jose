@@ -1,0 +1,134 @@
+0:
+person: {id: 8474578, fullName: "Erik Karlsson", link: "/api/v1/people/8474578"}
+jerseyNumber: "65"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+1:
+person: {id: 8474774, fullName: "Dalton Prout", link: "/api/v1/people/8474774"}
+jerseyNumber: "5"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+2:
+person: {id: 8476881, fullName: "Tomas Hertl", link: "/api/v1/people/8476881"}
+jerseyNumber: "48"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+3:
+person: {id: 8466138, fullName: "Joe Thornton", link: "/api/v1/people/8466138"}
+jerseyNumber: "19"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+4:
+person: {id: 8470613, fullName: "Brent Burns", link: "/api/v1/people/8470613"}
+jerseyNumber: "88"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+5:
+person: {id: 8471709, fullName: "Marc-Edouard Vlasic", link: "/api/v1/people/8471709"}
+jerseyNumber: "44"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+6:
+person: {id: 8474053, fullName: "Logan Couture", link: "/api/v1/people/8474053"}
+jerseyNumber: "39"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+7:
+person: {id: 8474889, fullName: "Martin Jones", link: "/api/v1/people/8474889"}
+jerseyNumber: "31"
+position: {code: "G", name: "Goalie", type: "Goalie", abbreviation: "G"}
+__proto__: Object
+8:
+person: {id: 8475169, fullName: "Evander Kane", link: "/api/v1/people/8475169"}
+jerseyNumber: "9"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+9:
+person: {id: 8475834, fullName: "Marcus Sorensen", link: "/api/v1/people/8475834"}
+jerseyNumber: "20"
+position: {code: "L", name: "Left Wing", type: "Forward", abbreviation: "LW"}
+__proto__: Object
+10:
+person: {id: 8475841, fullName: "Tim Heed", link: "/api/v1/people/8475841"}
+jerseyNumber: "72"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+11:
+person: {id: 8475869, fullName: "Brandon Davidson", link: "/api/v1/people/8475869"}
+jerseyNumber: "21"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+12:
+person: {id: 8476474, fullName: "Stefan Noesen", link: "/api/v1/people/8476474"}
+jerseyNumber: "11"
+position: {code: "R", name: "Right Wing", type: "Forward", abbreviation: "RW"}
+__proto__: Object
+13:
+person: {id: 8477180, fullName: "Aaron Dell", link: "/api/v1/people/8477180"}
+jerseyNumber: "30"
+position: {code: "G", name: "Goalie", type: "Goalie", abbreviation: "G"}
+__proto__: Object
+14:
+person: {id: 8477922, fullName: "Melker Karlsson", link: "/api/v1/people/8477922"}
+jerseyNumber: "68"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+15:
+person: {id: 8478099, fullName: "Kevin Labanc", link: "/api/v1/people/8478099"}
+jerseyNumber: "62"
+position: {code: "R", name: "Right Wing", type: "Forward", abbreviation: "RW"}
+__proto__: Object
+16:
+person: {id: 8478136, fullName: "Jacob Middleton", link: "/api/v1/people/8478136"}
+jerseyNumber: "67"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+17:
+person: {id: 8478414, fullName: "Timo Meier", link: "/api/v1/people/8478414"}
+jerseyNumber: "28"
+position: {code: "R", name: "Right Wing", type: "Forward", abbreviation: "RW"}
+__proto__: Object
+18:
+person: {id: 8479393, fullName: "Noah Gregor", link: "/api/v1/people/8479393"}
+jerseyNumber: "73"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+19:
+person: {id: 8479580, fullName: "Dylan Gambrell", link: "/api/v1/people/8479580"}
+jerseyNumber: "7"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+20:
+person: {id: 8479983, fullName: "Mario Ferraro", link: "/api/v1/people/8479983"}
+jerseyNumber: "38"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+21:
+person: {id: 8480160, fullName: "Radim Simek", link: "/api/v1/people/8480160"}
+jerseyNumber: "51"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
+__proto__: Object
+22:
+person: {id: 8480384, fullName: "Alexander True", link: "/api/v1/people/8480384"}
+jerseyNumber: "70"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+23:
+person: {id: 8480965, fullName: "Antti Suomela", link: "/api/v1/people/8480965"}
+jerseyNumber: "40"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+24:
+person: {id: 8481516, fullName: "Joel Kellman", link: "/api/v1/people/8481516"}
+jerseyNumber: "46"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+25:
+person: {id: 8481640, fullName: "Lean Bergmann", link: "/api/v1/people/8481640"}
+jerseyNumber: "45"
+position: {code: "C", name: "Center", type: "Forward", abbreviation: "C"}
+__proto__: Object
+26:
+person: {id: 8481812, fullName: "Nikolai Knyzhov", link: "/api/v1/people/8481812"}
+jerseyNumber: "71"
+position: {code: "D", name: "Defenseman", type: "Defenseman", abbreviation: "D"}
