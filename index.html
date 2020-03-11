@@ -6,130 +6,76 @@
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
     <link rel="stylesheet" href="home.css"></style>
-
+    <script defer src = "script.js"></script>
     <title>Trades For The Cup</title>
 </head>
 <body>
     <header>
+        <div class = "grid"></div>
         <div class = "blueLine"></div>
         
-        <h1>Trades For The Cup</h1>
-
+        <h1>TRADES FOR THE CUP</h1>
+    
         <nav>
-
+            <a href="index.html">Home</a>
+            <a href="arizona.html">Arizona Coyotes</a>
+            <a href="wash.html">Washington Capitals</a>
+            <a href="Carolina">Carolina Hurricanes</a>
+            <a href="edmonton">Edmonton Oilers</a>
+            <a href="florida.html">Florida Panthers</a>
+            <a href="minnesota.html">Minnesota Wild</a>
+            <a href="tbl.html">Tampa Bay Lightning</a>
         </nav>
     </header>
-    <h2>
-        <div class = nyCar>
-            <section>
+    <main>
                 <span>
-                        <div class = car>Carolina Hurricanes</div>
-                    <div id = skjei>Brady Skjei </div>
+                        <div class = car> Carolina Hurricanes</div>
+                    <div id = skjei> Brady Skjei </div>
+                    <div id = skjeiStats></div>
                 </span>
-                    <br>
                 <span>
-                        <div class = nyr>New York Rangers</div>
-                    <div id = firstRd>First-round pick (2020)</div>
+                        <div class = edm> Edmonton Oilers</div>
+                    <div id = andreasA> Andreas Athanasiou</div>
+                    <div id = aAstats></div>
                 </span>
-            </section>
-        </div>
-        <div id = rwEdm>
-            <section>
                 <span>
-                        <div class = edm>Edmonton Oilers</div>
-                    <div id = andreasA>Andreas Athanasiou</div>
-                    <div id = kuffner>Ryan Kuffner</div>
-                </span>
-                <br>
+                        <div class = car> Carolina Hurricanes</div>
+                    <div id = trocheck> Vincent Trocheck
+                    <div id = trocheckStats></div>
+                </spa>  
                 <span>
-                        <div class = det>Detroit Red Wings</div>
-                    <div id = gagner>Sam Gagner</div>
-                    <div id = secRd>second-round pick (2020)</div>
-                    <div id = secRd>Second-round pick (2021)</div>
-                </span>
-            </section>
-        </div>
-        <div class = flaCar>
-            <section>
-                <span>
-                        <div class = car>Carolina Hurricanes</div>
-                    <div id = trocheck>Vincent Trocheck
-                </span>
-                    <br>
-                <span>
-                        <div class = fla>Florida Panthers</div>
-                    <div id = haula>Erik Haula</div>
-                    <div id = wallmark>Lucas Wallmark</div>
-                    <div id = priskie>Chase Priskie</div>
-                    <div id = eeTu>Eetu Luostarinen</div>
-                </span>
-            </section>
-        </div>
-        <div class = ottNyi>
-            <section>
+                    <div class = fla> Florida Panthers</div>
+                    <div id = haula> Erik Haula</div>
+                        <div id = haulaStats></div>
+                    <div id = wallmark> Lucas Wallmark</div>
+                </span>      
                 <span>
                     <div class = nyi> New York Islanders</div>
-                <div id = jgp>Jean-Gabriel Pageau</div>
-                </span>
-                <br>
+                <div id = jgp> Jean-Gabriel Pageau</div>
+                    <div id = jgpStats></div>    
                 <span>
-                        <div class = ott>Ottawa Senators</div>
-                    <div id =firstRd>First-round pick (2020 conditional)</div>
-                    <div id =secRd>Second-round pick (2020)</div>
-                    <div id = thirdRd>Third-round pick (2022 conditional)</div>
-                </span>
-            </section>
-        </div>
-        <div class = njTb>
-            <section>
+                        <div class = tbl> Tampa Bay Lightning</div>
+                    <div id = blake> Blake Coleman</div>
+                        <div id = blakeStats></div>
+                </span>>   
                 <span>
-                        <div class = tbl>Tampa Bay Lightning</div>
-                    <div id = blake>Blake Coleman</div>
+                        <div class = pit> Pittsburgh Penguins</div>
+                    <div id =zucker> Jason Zucker</div>
+                        <div id = zuckerStats></div>
                 </span>
-                <br>
                 <span>
-                    <div class = njd><New Jersey Devils></div>
-                <div id =foote>Nolan Foote</div>
-                <div id =firstRd>2020 first-round pick</div>
+                        <div class = min> Minnesota Wild</div>
+                    <div id = alexG> Alex Galchenyuk</div>
                 </span>
-            </section>
-        </div>
-        <div class = wldPen>
-            <section>
                 <span>
-                        <div class = pit>Pittsburgh Penguins</div>
-                    <div id =zucker>Jason Zucker</div>
-                </span>
-                     <br>
-                <span>
-                        <div class = min>Minnesota Wild</div>
-                    <div id = alexG>Alex Galchenyuk</div>
-                    <div id = addison>Calen Addison</div>
-                    <div id =firstRd>2020 1st round pick</div>
-            </section>
-        </div>
-    <div class = njdAri>
-        <section>
-            <span>
-                    <div class = ari>Arizona Coyotes</div>
+                    <div class = ari> Arizona Coyotes</div>
                 <!-- <img src="https://nhl.bamcontent.com/images/headshots/current/168x168/8475791@2x.jpg" alt = "Taylor Hall"></img> -->
-                <div id =hall>Taylor Hall</div>
+                <div id =hall> Taylor Hall</div>
+                    <div id = hallStats></div>
                 <!-- <img src="https://nhl.bamcontent.com/images/headshots/current/168x168/8478480@2x.jpg" alt = "Blake Speers"></img> -->
-                <div id = speers>Blake Speers</div>
-            </span>
-                <br>
-            <span>
-                    <div class = njd>New Jersey Devils</div>
-                <div id = schnarr>Nate Schnarr</div>
-                <div id = merkley>Nick Merkley</div>
-                <div id = bahl>Kevin Bahl</div>
-                <div id = firstRd> 2020 conditional first-round draft pick</div>
-                <div id = thirdRd>2021 conditional third-round draft pick</div>
-            </span>
-        </section>
-    </div>
-        </div>    
-    </h2>
+                <div id = speers> Blake Speers</div>
+                </span>
+    </main>
 
 </body>
 <footer>

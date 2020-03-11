@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <link rel="stylesheet" href="home.css"></style>
+    <script defer src = "script.js"></script>
+    <title>Team Page</title>
+</head>
+<body>
+  <header>
+    <div class = "grid"></div>
+    <div class = "blueLine"></div>
+    
+    <h1>TRADES FOR THE CUP</h1>
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="team_page.html">Team Page</a>
+    </nav>
+  </header>
+        <div id="team-page">
+          <h2>Pick A Team</h2>
+          <select>
+            <option value="ari">Arizona Coyotes</option>
+            <option value="car">Carolina Hurricanes</option>
+            <option value="edm">Edmonton Oilers</option>
+            <option value="fla">Florida Panthers</option>
+            <option value="min">Minnesota Wild</option>
+            <option value="nyi">New York Islanders</option>
+            <option value="pit">Pittsburg Penguins</option>
+            <option value="tbl">Tampa Bay Lightning</option>
+            <option value="wash">Washington Capitals</option>
+          </select>
+          <button id="select-team">Select Team</button>
+        </div> 
+</body>
+</html>
+
+// const hall = document.querySelector('.hall');
+// const hallStats = async () => {
+//     let response = await axios.get('https://statsapi.web.nhl.com/api/v1/people/8475791/stats?stats=yearByYear');
+//     console.log(response)
+// };
+
+// hallStats();
