@@ -44,6 +44,11 @@ numbers may not be available for all players (ie: prospects involved in trade).
 
 # Build Status:  
 Just starting out.
+Update 1: 
+Home page structured.  
+Team pages created.  
+Team page links added to nav bar.
+Player data gathered.  To be added to specified team pages.
 
 
 # Code Style 
