@@ -129,3 +129,10 @@
 //         ));
 // trocheckStats();
 
+const skjei = document.getElementById('.skjei');
+ const skjeiStats = async () => {
+    let response = await axios.get('https://statsapi.web.nhl.com/api/v1/standings')
+ console.log(response);
+ }    
+
+skjeiStats(); 
