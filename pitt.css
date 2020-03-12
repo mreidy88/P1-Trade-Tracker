@@ -59,7 +59,8 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: #ffb81c;
+    background-color: rgba(0, 0, 0, 0.589);
 
 }
 
