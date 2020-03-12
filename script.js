@@ -129,10 +129,17 @@
 //         ));
 // trocheckStats();
 
-const skjei = document.getElementById('.skjei');
- const skjeiStats = async () => {
-    let response = await axios.get('https://statsapi.web.nhl.com/api/v1/standings')
+const baseURL = 'https://statsapi.web.nhl.com/api/v1/';
+const playerData = 'stats?stats=yearByYear';
+const nhlApi = {};
+
+
+
+
+const skjeiInfo = document.getElementById('.skjeiInfo');
+ const skjeiInfo = async () => {
+    let response = await axios.get('')
  console.log(response);
  }    
 
-skjeiStats(); 
+skjeiInfo(); 

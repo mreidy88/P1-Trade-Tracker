@@ -11,6 +11,7 @@ body {
     align-items: center;
     flex-grow: 1;
     border-top: 45px solid rgba(80, 80, 252, 0.856);
+    background-color: whitesmoke;
 }
 
 #blueLine {
@@ -22,8 +23,7 @@ body {
 
 
 header {
-    display: block;
-    flex-direction: column;
+    display: flex;
     width: 100%;
     height: 1fr;
     color: blue;
@@ -35,34 +35,129 @@ header {
     background-image: url("https://cdn.hipwallpaper.com/i/1/33/HwIRT1.jpg");
 }
 
-nav {
-    display: inline-block;
-    margin-inline-start: center;
-    background-color: #FCB514;
-    color: #002F87;
-    height: 15%;
-    width: 100%;
-    border: 2px solid #1b202e;
-}
 
-a:hover{
-    background-color: #002F87;
-    font-size: 125%;
-    color: #FCB514
-} 
+
 
 h1 {
     display: flex;
     width: 100%;
-    height: 100px;
+    height: 200px;
     color: rgba(80, 80, 252, 0.856);
     justify-content: center; 
     font-size: 100px;
 }
 
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+    h1 {
+        display: flex;
+        font-size: 25px;
+        height: 100px;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    h1 {
+        display: flex;
+        font-size: 35px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+    h1 {
+        display: flex;
+        height: 90%;
+        align-items: center;
+        justify-content: center;
+        font-size: 35px;
+    }
+  }
+
+  @media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    h1 {
+        display: flex;
+        font-size: 70px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    h1 {
+        display: flex;
+        font-size: 25px;
+        height: 100px;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/* ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+}
+
+li a {
+    display: block;
+    padding: 8px 16px;
+    text-align: center;
+    background-color: #FCB514;
+    color: #002F87;
+    border: 2px solid #1b202e;
+} */
+
+nav {
+    display: inline-block;
+    background-color: #FCB514;
+    color: #002F87;
+    height: 15%;
+    width: 63%;
+    border: 2px solid #1b202e;
+    text-align: center;
+    }
+
+a:hover{
+    background-color: #002F87;
+    font-size: 125%;
+    color: #FCB514
+    } 
+
+ @media screen 
+    and (device-width: 360px) 
+    and (device-height: 640px) 
+    and (-webkit-device-pixel-ratio: 3) {
+        nav {
+            display: flex;
+            font-size: 10px;
+            justify-content: space-evenly;
+            width: 67%;
+        }
+  }
+
+
 main {
     display: inline-grid;
-    height: 100%;
+    height: 90%;
     grid-template-columns: repeat(3, 20vw);
     grid-template-rows: repeat(8, 20vh);
     grid-auto-flow: row;
@@ -73,6 +168,38 @@ main {
     font-size: 18px;
     font-weight: 600;
 }
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+    main {
+        display: inline-grid;
+        font-size: 10px;
+        grid-gap: 5px 5px;
+
+    }
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+        main {
+            display: inline-grid;
+            font-size: 10px;
+            grid-gap: 5px 5px;
+        }
+  }
+  @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    main {
+        font-size: 10px;
+        grid-gap: 5px 5px;
+    }
+  }
 
 span {
     display: grid;
@@ -148,7 +275,41 @@ footer {
     text-align: center;
 }
 
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+    footer {
+        height: 12px;
+    }
 
+  }   
+
+  @media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    footer {
+        height: 25px;
+    }
+  }  
+  @media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+    footer {
+        height: 20px;
+    }
+  }
+
+  @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    footer {
+        height: 20px;
+    }
+}
 /* 378 px:  Trocheck and oilers collide 
 
 
