@@ -1,0 +1,120 @@
+body {
+    display: flex;
+    background-color: #E13A3E;
+    color: black;
+    flex-direction: column;
+    column-count: 1;
+    align-items: center;
+    flex-grow: 1;
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Carolina_Hurricanes.svg/1200px-Carolina_Hurricanes.svg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    border-top: 45px solid rgba(80, 80, 252, 0.856);
+}
+
+
+header {
+    display: block;
+    flex-direction: column;
+    width: 100%;
+    height: 30%;
+    color: blue;
+    align-items: baseline;
+    justify-content: center;
+    background-image: url("https://cdn.hipwallpaper.com/i/1/33/HwIRT1.jpg");
+}
+
+nav {
+    display: inline-block;
+    margin-inline-start: center;
+    background-color: #8E8E91;
+    color: rgb(45, 41, 36);
+    height: 15%;
+    width: 100%;
+    border: 5px solid #1b202e;
+}
+
+a:hover{
+    background-color: #E13A3E;
+    font-size: 125%;
+    color: whitesmoke;
+} 
+
+
+#blueLine {
+    height: 5%;
+    width: 100%;
+    background-color: blue;
+}
+
+h1 {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    color: rgba(80, 80, 252, 0.856);
+    justify-content: center; 
+    font-size: 100px;
+}
+
+h2 {
+    color: #231F20;
+
+}
+
+main {
+    display: inline-grid;
+    height: 100%;
+    width: 100%;
+    grid-template-columns: repeat(4, 20vw);
+    grid-template-rows: repeat(3, 20vh);
+    grid-auto-flow: row;
+    align-content: start;
+    grid-column: start;
+    background-color: rgba(245, 245, 245, 0.596);
+    align-content: stretch;
+    grid-gap: 10px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+span {
+    display: grid;
+    grid-column: 1;
+}
+
+#carStats {
+    grid-column: 1 / 5;
+    grid-row: 1;
+}
+
+#hall {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#skjeiStats {
+    grid-column: 2 / 5;
+    grid-row: 2;
+}
+
+#trocheckStats {
+    grid-column: 2 / 5;
+    grid-row: 3;
+}
+
+img {
+  height: 75%;
+  width: 100%;  
+}
+
+footer {
+    display: inline-block;
+    background-color: #231F20;
+    color: #8E8E91;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}

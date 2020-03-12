@@ -3,25 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="home.css"></style>
-    <title>Document</title>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <link rel="stylesheet" href="carolina.css"></style>
+    <script defer src = "script.js"></script>
+
+    <title>Carolina Hurricanes</title>
 </head>
 <body>
+    <header>
+        <!-- <div class = "grid"></div> -->
+        <div class = "blueLine"></div>
+        
+        <h1>TRADES FOR THE CUP</h1>
     
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="arizona.html">Arizona Coyotes</a>
+            <a href="carolina.html">Carolina Hurricanes</a>
+            <a href="edmonton.html">Edmonton Oilers</a>
+            <a href="florida.html">Florida Panthers</a>
+            <a href="minnesota.html">Minnesota Wild</a>
+            <a href="nyi.html">New York Islanders</a>
+            <a href="pitt.html">Pittsburgh Penguins</a>
+            <a href="tbl.html">Tampa Bay Lightning</a>        
+        </nav>
+    </header>
+    <h2>Carolina Hurricanes</h2>
+        <main>
+            <div id= carStats>Team Stats</div>
+            <span>
+            <div id = skjei> Brady Skjei </div>
+            <img src = "https://nhl.bamcontent.com/images/headshots/current/168x168/8476869.jpg" alt = "Brady Skjei">
+        </span>
+        <span>
+            <div id = trocheck> Vincent Trocheck</div>
+            <img src = "https://www.hockeydb.com/ihdb/photos/vincent-trocheck-2020-234.jpg" alt = "Vincent Trocheck">
+        </span>
+        <div id = skjeiStats></div>
+        <div id = trocheckStats></div>
+        </main>
 </body>
+<footer>
+    Created by Mike Reidy
+    </footer>
 </html>
 
 
 
-
-
-// const skjei = document.getElementById('.skjei');
-//  const skjeiStats = async () => {
-//     let response = await axios.get('https://statsapi.web.nhl.com/api/v1/people/8476869/stats?stats=yearByYear')
-//  console.log(response);
-//  }    
-
-// skjeiStats(); 
+<!-- 
 
 // const skjei = document.getElementById('.skjei');
 //  const skjeiStats = async () => {
@@ -30,3 +60,11 @@
 //  }    
 
 // skjeiStats(); 
+
+// const skjei = document.getElementById('.skjei');
+//  const skjeiStats = async () => {
+//     let response = await axios.get('https://statsapi.web.nhl.com/api/v1/people/8476869/stats?stats=yearByYear')
+//  console.log(response);
+//  }    
+
+// skjeiStats();  -->

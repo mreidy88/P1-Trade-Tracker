@@ -1,10 +1,24 @@
 body {
     display: flex;
+    background-image: url("https://dynamicmedia.zuza.com/zz/m/original_/3/e/3ed17868-fcde-49c9-afa8-010bab09023e/B88748759Z.1_20190612232910_000_GGOKFDD7.4-0_Super_Portrait.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
     background-color: rgb(150, 150, 150);
     color: black;
     flex-direction: column;
     column-count: 1;
     align-items: center;
+    flex-grow: 1;
+    border-top: 45px solid rgba(80, 80, 252, 0.856);
+}
+
+#blueLine {
+    display: inline-block;
+    height: 15px;
+    width: 100%;
+    background-color: blue;
 }
 
 
@@ -12,8 +26,11 @@ header {
     display: block;
     flex-direction: column;
     width: 100%;
-    height: 20%;
+    height: 1fr;
     color: blue;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: larger;
     align-items: baseline;
     justify-content: center;
     background-image: url("https://cdn.hipwallpaper.com/i/1/33/HwIRT1.jpg");
@@ -22,43 +39,122 @@ header {
 nav {
     display: inline-block;
     margin-inline-start: center;
-    background-color: #63a7bf;
-    color: black;
+    background-color: #FCB514;
+    color: #002F87;
     height: 15%;
     width: 100%;
     border: 2px solid #1b202e;
-
 }
 
-#blueLine {
-    height: 5%;
-    width: 100%;
-    background-color: blue;
-}
+a:hover{
+    background-color: #002F87;
+    font-size: 125%;
+    color: #FCB514
+} 
 
 h1 {
     display: flex;
     width: 100%;
-    height: 50px;
-    color: rgba(80, 80, 252, 0.486);
-    background-color: rgba(245, 245, 245, 0.747);
+    height: 100px;
+    color: rgba(80, 80, 252, 0.856);
     justify-content: center; 
+    font-size: 100px;
 }
 
 main {
-    display: grid;
-    width: 100%;
+    display: inline-grid;
     height: 100%;
-    grid-template-columns: 25% 25% 25% 25%;
-    grid-template-rows: 50px 50px 50px 50px 50px 50px 50px;
+    grid-template-columns: repeat(3, 20vw);
+    grid-template-rows: repeat(8, 20vh);
+    grid-auto-flow: row;
+    align-content: start;
+    background-color: rgba(245, 245, 245, 0.747);
+    align-content: stretch;
+    grid-gap: 10px 10px;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+span {
+    display: grid;
+    grid-column: 1;
+    align-content: stretch;
+    grid-template-columns: repeat(3, 20vw);
+}
+#ari {
+    grid-column: 1;
+    grid-row: 1;
+}
+#car {
+    grid-column: 1;
+    grid-row: 2;
+}
+.skjeiStats {
+    grid-column: 2;
+}
+.trocheckStats {
+    grid-column: 3;
+}
+#edm {
+    grid-column: 1;
+    grid-row: 3;
+}
+.aAstats {
+    grid-column: 2;
+}
+#fla{
+    grid-column: 1;
+    grid-row: 4;
+}
+.haulaStats {
+    grid-column: 2;
+}
+.wallmarkStats {
+    grid-column: 3;
+}
+#min{
+    grid-column: 1;
+    grid-row: 5;
+}
+.alexGstats {
+    grid-column: 2;
+}
+#nyi{
+    grid-column: 1;
+    grid-row: 6;
+}
+.jgpStats {
+    grid-column: 2;
+}
+#pit {
+    grid-column: 1;
+    grid-row: 7;
+}
+.zuckerStats {
+    grid-column: 2;
+}
+#tbl{
+    grid-column: 1;
+    grid-row: 8;
+}
+.blakeStats {
+    grid-column: 2;
+}
+footer {
+    display: inline-block;
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 
+/* 378 px:  Trocheck and oilers collide 
 
-/* 
-footer {
-    display: block;
-    background-color: rgb(255, 0, 0);
-    width: 100%;
-    margin: 0 auto;
-} */
+
+
+
+
+*/

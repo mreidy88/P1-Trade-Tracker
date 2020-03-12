@@ -112,3 +112,20 @@
 // hallStats();
 
 // 'https://statsapi.web.nhl.com/api/v1/people/8476869/stats?stats=statsSingleSeason&season=20182019'
+
+
+const trocheck = document.querySelector('.trocheck');
+const trocheckStats = async () => {
+        let response = await axios.get('https://statsapi.web.nhl.com/api/v1/people/8476389/stats?stats=yearByYear', {
+            params: {
+                stats: ''
+            }
+        })
+        .then(({
+          response
+        }) => (
+          console.log(response)
+        
+        ));
+trocheckStats();
+

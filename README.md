@@ -51,6 +51,10 @@ Team page links added to nav bar.
 Player data gathered.  To be added to specified team pages.
 
 
+Update 2:  Team pages and home pages are pretty much done.
+Ready for data
+
+
 # Code Style 
 Will be using JS, HTML, and CSS
 
