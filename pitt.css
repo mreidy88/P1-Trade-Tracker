@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-position: center;
+    background-position: 50% 30%;
     border-top: 45px solid rgba(80, 80, 252, 0.856);
 }
 
