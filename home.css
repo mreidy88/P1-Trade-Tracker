@@ -5,7 +5,6 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
-    background-color: whitesmoke;
     color: black;
     flex-direction: column;
     column-count: 1;
