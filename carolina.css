@@ -225,6 +225,18 @@ main {
     }
   }
 
+  @media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+    main {
+        display: inline-grid;
+        font-size: 10px;
+        grid-gap: 5px 5px;
+
+    }
+}
+
 span {
     display: grid;
     grid-column: 1;
